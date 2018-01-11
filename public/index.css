@@ -1,4 +1,39 @@
 /*Add your css code here*/
-div {
-  color: red;
+
+
+header{
+background-image: url("football pitch.jpg");
+text-align: center;
+font-weight: bolder;
+color: blue;
+font-size: 24px;
+}
+.container{
+  background-color: green;
+}
+
+}
+#headlines{
+  font-family: Georgia;
+  float: left;
+  width: auto;
+}
+#headlines h1{
+  font-size: 24px;
+  font-weight: bold;
+
+}
+p{
+  font-family: cursive;
+  color : black;
+}
+.news{
+  float:left;
+  width:auto;
+  background-color: green;
+}
+footer{
+  text-align: center;
+  background-color: teal;
+  font-size: 20px;
 }
